@@ -1,0 +1,6 @@
+{
+  "name": "FrameForge",
+  "description": "Offline-first binary protocol encoder, decoder, hexadecimal inspector, bit-level visualizer, and checksum workbench for systems engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
